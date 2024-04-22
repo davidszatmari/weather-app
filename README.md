@@ -1,2 +1,2 @@
 # weather-app
-Github repo for Project: Weather App 
+#### Preview: https://davidszatmari.github.io/weather-app/
